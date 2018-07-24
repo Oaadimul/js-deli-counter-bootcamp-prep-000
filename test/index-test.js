@@ -1,4 +1,8 @@
 /*global describe, it */
+var katzDeli = ["Ada", "Grace", "Kent"];
+function takeANumber(katzDeli){
+  
+}
 
 describe('deli', () => {
   describe('takeANumber', () => {
