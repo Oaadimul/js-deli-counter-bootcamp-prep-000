@@ -1,1 +1,1 @@
-var katzDeli = ["Ada" ,];
+var katzDeli = ['Ada', ''];
